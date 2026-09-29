@@ -1,0 +1,9 @@
+name: StructureAPI
+version: 1.0.0
+main: com.katok.structureapi.StructureAPI
+author: Katok777
+api-version: '1.21'
+folia-supported: true
+
+libraries:
+  - "com.google.dagger:dagger:2.60.1"
